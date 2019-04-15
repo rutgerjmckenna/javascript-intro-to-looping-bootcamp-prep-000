@@ -21,6 +21,7 @@ function whileLoop(n) {
 function doWhileLoop(num) {
   debugger
   i = 0
+  var hi = 'hello'
   function incrementVariable() {
    i++
   }
