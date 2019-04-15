@@ -19,7 +19,7 @@ function whileLoop(n) {
 // dwayne.harmon@gmail.com
 
 function doWhileLoop(num) {
-  debugger
+  
   i = 0
   var hi = 'hello'
   function incrementVariable() {
