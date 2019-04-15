@@ -15,6 +15,9 @@ function whileLoop(n) {
   }
   return 'done'
 }
+
+// dwayne.harmon@gmail.com
+
 function doWhileLoop(num) {
   i = 0
   function incrementVariable() {
